@@ -20,7 +20,7 @@ const Contact = () => {
       <br />
      
       <div className="input-box">
-        <input type="submit" value="Send Message"/>
+        <input className="btn btn-warning" type="submit" value="Send Message"/>
       </div>
     </form>
   </div>
