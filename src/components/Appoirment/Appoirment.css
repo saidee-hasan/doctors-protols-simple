@@ -1,0 +1,12 @@
+.appor {
+  background-color: #3a4256;
+  height: 500px;
+  background-image: url("../../images/appointment-bg.png");
+  display: flex;
+}
+.appor img {
+  height: 500px;
+}
+.appor p{
+    margin-top: 100px;
+}
